@@ -1,4 +1,4 @@
-package com.shop.dao;
+package com.demo.dao;
 
 import com.shop.bean.User;
 

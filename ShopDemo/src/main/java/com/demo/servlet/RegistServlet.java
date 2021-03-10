@@ -1,4 +1,4 @@
-package com.shop.servlet;
+package com.demo.servlet;
 
 import com.shop.bean.User;
 import com.shop.dao.impl.UserDaoImpl;

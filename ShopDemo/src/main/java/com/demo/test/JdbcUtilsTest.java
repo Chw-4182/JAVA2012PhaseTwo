@@ -1,4 +1,4 @@
-package com.shop.test;
+package com.demo.test;
 
 import com.shop.utils.JdbcUtils;
 import org.junit.Test;

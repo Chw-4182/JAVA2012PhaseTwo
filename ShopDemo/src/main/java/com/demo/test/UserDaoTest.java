@@ -1,4 +1,4 @@
-package com.shop.test;
+package com.demo.test;
 
 import com.shop.dao.UserDao;
 import com.shop.dao.impl.UserDaoImpl;

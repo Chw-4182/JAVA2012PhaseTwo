@@ -1,6 +1,7 @@
-package com.shop.dao;
+package com.demo.dao;
 
-import com.shop.utils.JdbcUtils;
+
+import com.demo.utils.JdbcUtils;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 import org.apache.commons.dbutils.handlers.BeanListHandler;

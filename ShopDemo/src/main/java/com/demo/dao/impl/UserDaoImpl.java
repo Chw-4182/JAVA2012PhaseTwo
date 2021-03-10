@@ -1,4 +1,4 @@
-package com.shop.dao.impl;
+package com.demo.dao.impl;
 
 import com.shop.bean.User;
 import com.shop.dao.BaseDao;

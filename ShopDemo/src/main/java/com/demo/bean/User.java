@@ -1,4 +1,4 @@
-package com.shop.bean;
+package com.demo.bean;
 
 /**
  * @author WuLiangHang
