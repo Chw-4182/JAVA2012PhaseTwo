@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0304Demo1/Demo0304.iml" filepath="$PROJECT_DIR$/0304Demo1/Demo0304.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo0308/Demo0308.iml" filepath="$PROJECT_DIR$/Demo0308/Demo0308.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo0309/Demo0309.iml" filepath="$PROJECT_DIR$/Demo0309/Demo0309.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2012PhaseTwo.iml" filepath="$PROJECT_DIR$/JAVA2012PhaseTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.demo.servlet/com.demo.servlet.iml" filepath="$PROJECT_DIR$/com.demo.servlet/com.demo.servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop01/shop01.iml" filepath="$PROJECT_DIR$/shop01/shop01.iml" />
+    </modules>
+  </component>
+</project>

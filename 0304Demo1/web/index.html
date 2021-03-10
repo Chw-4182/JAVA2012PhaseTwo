@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="../jquery-1.7.2.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+			var arrs = new Array();
+			arrs[0] = 1;
+			arrs[1] = 2;
+			arrs[2] = 3;
+			arrs[3] = 4;
+			arrs[4] = 5;
+			$(function() {
+				$("#btn1").click(function() {
+					var a = $("#index").val();
+					arrs.splice(a, 1);
+					for (var i = 0; i < arrs.length; i++) {
+						console.log(arrs[i])
+					}
+				})
+
+			})
+		</script>
+	</head>
+	<body>
+		<p>数组为{1,2,3,4,5}</p>
+
+		输入想要删除的数组元素下标<input type="text" name="" id="index" value="" />
+		<button type="button" id="btn1">确定</button>
+		<input type="text" name="" id="input1" value="" />
+	</body>
+</html>
